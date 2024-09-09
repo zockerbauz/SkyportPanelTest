@@ -1,0 +1,1 @@
+Just a test server for testing Skyport Panel and Plugins for Skyport Panel, this isn't a fake hosting!
